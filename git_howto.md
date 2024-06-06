@@ -16,7 +16,12 @@ git add <имя файла>
 # или чтобы добавить все файлы
 git add
 ```
+## Создание коммита
+
+Чтобы зафиксировать изменения, сделайте коммит:
+```sh
 git commit -m "Message"
+```
 git log
 git log --oneline
 git checkout
