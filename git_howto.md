@@ -34,5 +34,13 @@ git log
 ```sh
 git log --oneline
 ```
+## Работа с ветками
 
-git checkout
+```sh
+git checkout <имя ветки>
+```
+ используется для переключения между ветками. Например, чтобы переключиться на ветку master, выполните:
+
+```sh
+git checkout master
+```
