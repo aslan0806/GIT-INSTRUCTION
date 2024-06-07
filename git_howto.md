@@ -42,7 +42,7 @@ git add
 
 Чтобы зафиксировать изменения, сделайте коммит:
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 ## Просмотр истории коммитов
 
