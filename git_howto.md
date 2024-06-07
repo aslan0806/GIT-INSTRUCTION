@@ -66,3 +66,8 @@ git checkout <имя ветки>
 ```sh
 git checkout master
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
