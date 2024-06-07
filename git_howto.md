@@ -59,7 +59,7 @@ git log --oneline
 ## Работа с ветками
 
 ```sh
-git checkout <branch name>
+git checkout <branch_name>
 ```
 
  *git checkout* используется для переключения между ветками. Например, чтобы переключиться на ветку master, выполните:
