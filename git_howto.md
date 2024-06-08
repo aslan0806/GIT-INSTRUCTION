@@ -30,8 +30,8 @@ sudo apt-get install git
 После установки настройте ваше имя и email, чтобы Git мог идентифицировать ваши коммиты:
 
 ```sh
-git config --global user.name "Ваше Имя"
-git config --global user.email "ваш.email@example.com"
+git config --global user.name "your name"
+git config --global user.email "your.email@example.com"
 ```
 ## Работа с локальными репозиториями
 
